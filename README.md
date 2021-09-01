@@ -1,4 +1,4 @@
-Hello! I am @royfieldsmcclanahan and I am a full-stack containerized web app developer.
+Hello! I am @royfieldsmcclanahan, and I am a full-stack containerized web app developer.
 
 My main goal on Github is to provide helpful code that is multipurpose while remaining grounded in efficiency and usability.
 
